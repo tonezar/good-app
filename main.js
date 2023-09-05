@@ -3,3 +3,6 @@ console.log("gooboy")
 console.log("gggg")
 console.log("gggg")
 console.log("gggg")
+
+// mind
+hhhooofdf
